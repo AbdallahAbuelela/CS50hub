@@ -1,0 +1,12 @@
+functions only that need to include <cs50.h> such as get_int & get_string & get_char
+any thing else doesn't need to include <cs50.h> as %d , %s , %c
+
+لو في return يبقى ال print مع ال int main ولو مفيش return يبقى ال print مع ال function الأخرى سواء الfunction ده فوق ال 
+int main أو تحتها
+##############################################################################
+الأرقام من 0 إلى 127 يمكن أن تعامل كإنتيجر و كاركتر لأن الكاراكتر يتحمل 1 بايت كحد اقصى أي 8 بت تحديدًا تُطابق ترميز
+  القياسي، وهو نظام يستخدم لتمثيل الحروف والأرقام والرموز الأساسيةASCII
+ أما من 128 إلى 256 يمكن أن تعامل كإنتيجر و كاركتر أيضا لكن كاركتر متوسع
+Extended ASCII ترميزات
+ 
+ 
