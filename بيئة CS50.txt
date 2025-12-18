@@ -1,0 +1,2 @@
+https://cs50.dev/
+https://code.cs50.io/
